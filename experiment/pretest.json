@@ -2,38 +2,119 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In bending test on mild steel dial indicators are used to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Find force applied",
+        "b": "Find value of stresses",
+        "c": "Record value of deflection",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Type of support used to fix the specimen in bending test on mild steel is",
+      "answers": {
+        "a": "Hinge",
+        "b": "Roller",
+        "c": "Fixed",
+        "d": "Cantilever"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "When simply supported beam is subjected to centre concentrated load W",
+      "answers": {
+        "a": "Occurs at centre with value of WL/6 and (WL^3)/58 * EI",
+        "b": "Both maximum bending moment and maximum deflection occurs at central cross section",
+        "c": "Both maximum bending moment and maximum deflection occurs at 1/3rd span point",
+        "d": "Occurs at 1/3rd span with value of WL/4 and (WL^3)/58*EI"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "As compared to uniaxial tension or compression, the strain energy stored in bending is only",
+      "answers": {
+        "a": "¼",
+        "b": "½",
+        "c": "⅕",
+        "d": "⅓"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "In simple bending theory, one of assumption is that material of beam is isotropic. Assumption means that",
+      "answers": {
+        "a": "Normal stress varies linearly in material",
+        "b": "Normal stress remain constant in all direction",
+        "c": "Elastic constants are same in all directions",
+        "d": "Elastic constants varies linearly in material"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Pick up correct assumption of theory of simple bending",
+      "answers": {
+        "a": "Resultant pull or thrust on transverse section of beam is zero",
+        "b": "Material of beam is homogenous and isotropic",
+        "c": "Transverse section of the beam remain plain before and after bending",
+        "d": "All the above are correct"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Rod is loaded in tension and pulled until it separates in to two pieces, it is described as fracture rather than rupture.( Say true or false)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
