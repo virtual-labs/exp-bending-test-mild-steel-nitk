@@ -2,38 +2,100 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In bending equation M/I = f/y = E/R",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(A) Knowing deflection y experimentally, E can be found",
+        "b": "(B) By knowing value of E, theoretical value of y can be computed",
+        "c": "Both (A) and (B) correct",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Is extensometer required in bending test of mild steel",
+      "answers": {
+        "a": "Yes",
+        "b": "Requires at initial stage only",
+        "c": "Requires at final stage",
+        "d": "No"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is most elastic",
+      "answers": {
+        "a": "Rubber",
+        "b": "Plastic",
+        "c": "Steel",
+        "d": "Brass"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Pure bending is observed",
+      "answers": {
+        "a": "When there is internal shear acting in mid-span of specimen",
+        "b": "When there is internal shear acting in quarter span of specimen",
+        "c": "When there is no internal shear acting in quarter span of specimen",
+        "d": "When there is no internal shear acting in mid-span of specimen"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Computation of bending stress using formula f/y = M/I. This formula is valid within elastic limit only.(Say True or False)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Write suitable answer, Failure of mild steel specimen in bending test is",
+      "answers": {
+        "a": "Neck formation",
+        "b": "Fracture",
+        "c": "Excessive Deflection"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
